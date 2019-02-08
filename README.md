@@ -3,11 +3,11 @@ Where we hold things
 hi
 
 Questions (based on data cpollected): 
-  - What state (and what city) has the most crime rate?
-  - What causes crimes?
-  - Which state doesn't have so much laws/regulations?
-  - How are prisons treating inmates?
-  - Out of how many crimes were shots fired?
+  - As years goes by are things safer?
+  - How many criminals have a mental illness?
+  - Does having a mental illness 
+  - Based on gender which is more dangerous?
+  - Based on race how any crucial crime have been commited?
   
 
 https://crime-data-explorer.fr.cloud.gov/
@@ -19,3 +19,5 @@ https://opendata.socrata.com/Government/Airplane-Crashes-and-Fatalities-Since-19
 https://www.start.umd.edu/gtd/
 
 https://www.seattle.gov/Documents/Departments/Police/SeaStat/SEASTAT_2018DEC5_FINAL.pdf
+
+https://www.treatmentadvocacycenter.org/storage/documents/backgrounders/how%20many%20individuals%20with%20serious%20mental%20illness%20are%20in%20jails%20and%20prisons%20final.pdf
