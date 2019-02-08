@@ -5,7 +5,7 @@ hi
 Questions (based on data cpollected): 
   - As years goes by are things safer?
   - How many criminals have a mental illness?
-  - Does having a mental illness 
+  - Based on where you live is there a higher crime rate?
   - Based on gender which is more dangerous?
   - Based on race how any crucial crime have been commited?
   
