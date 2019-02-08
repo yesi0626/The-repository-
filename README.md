@@ -9,3 +9,5 @@ https://www.crimereports.com/city/Manor,%20TX#!/dashboard?incident_types=Assault
 https://opendata.socrata.com/Government/Airplane-Crashes-and-Fatalities-Since-1908/q2te-8cvq
 
 https://www.start.umd.edu/gtd/
+
+https://www.seattle.gov/Documents/Departments/Police/SeaStat/SEASTAT_2018DEC5_FINAL.pdf
