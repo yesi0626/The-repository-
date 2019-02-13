@@ -1,6 +1,7 @@
 # The-repository-
-Where we hold things 
-hi
+Where we hold things
+
+This is a project where we have to answer question based on data and what to do with this data. We are Yesenia and Heriberto and were trying to find out certain things on crime. 
 
 Questions (based on data cpollected): 
   - What state (and what city) has the most crime rate?
